@@ -1,9 +1,6 @@
-#import win32com.client
 import onepy
 import datetime
 from sys import exit
-from pprint import pprint
-
 
 def find_journal_notebook():
     """Look for a suitable notebook to use.
